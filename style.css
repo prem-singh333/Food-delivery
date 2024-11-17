@@ -19,11 +19,12 @@
     transition: all .2s linear;
 }
 
-html{
+html,body{
     font-size: 62.5%;
     overflow-x: hidden;
     scroll-padding-top: 5.5rem;
     scroll-behavior: smooth;
+    width: 100%;
 }
 
 section{
